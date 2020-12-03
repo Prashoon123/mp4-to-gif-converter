@@ -1,4 +1,6 @@
-# New Project
+# mp4-to-gif-converter
+
+Check out the completed website -> https://mp4-to-gif-converter.netlify.app/
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
